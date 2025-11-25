@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/MyPageComponent/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "台球小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "user-dashboard": "components/UserDashboard/index",
+    "nearby-store-card": "components/NearbyStoreCard/index",
+    "local-sports-event-card": "components/LocalSportsEventCard/index",
+    "official-match-card": "components/OfficialMatchCard/index",
+    "billiards-tournament-card": "components/BilliardsTournamentCard/index",
+    "nearby-friend-connector": "components/NearbyFriendConnector/index",
+    "ranking-board": "components/RankingBoard/index",
+    "store-location-card": "components/StoreLocationCard/index",
+    "tab-navigation": "components/TabNavigation/index"
+  }
+}

@@ -1,0 +1,17 @@
+<view class="nearby-friend-connector">
+  <view class="connector-container">
+    <view class="message-highlight">
+      <text class="message-text">
+        <text class="subtitle">总有一类人更懂你</text>
+        <text class="detail">带你链接500米内更多球发</text>
+      </text>
+    </view>
+    <view class="activity-tag">
+      <text class="tag-text">约球交友</text>
+    </view>
+  </view>
+  <button class="view-friends-btn">
+    <text class="btn-text">查看附近球友</text>
+    <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=48&height=48&random=arrow_48_48" class="btn-icon" />
+  </button>
+</view>

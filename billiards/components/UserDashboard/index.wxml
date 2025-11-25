@@ -1,0 +1,72 @@
+<view class="user-dashboard">
+  <view class="header-section">
+    <view class="time-section">
+      <text class="time-text">11:27</text>
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=notification&width=20&height=24&random=notification_20_24" class="icon" />
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=message&width=20&height=24&random=message_20_24" class="icon" />
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=setting&width=20&height=24&random=setting_20_24" class="icon" />
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=search&width=20&height=24&random=search_20_24" class="icon" />
+    </view>
+    <view class="user-info">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=avatar-border&width=20&height=24&random=avatar-border_20_24" class="avatar-border" />
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=avatar&width=16&height=20&random=avatar_16_20" class="avatar" />
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=gender&width=20&height=24&random=gender_20_24" class="gender-icon" />
+      <text class="user-code">460011133</text>
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=edit&width=16&height=20&random=edit_16_20" class="edit-icon" />
+    </view>
+  </view>
+  
+  <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=promotion-banner&width=624&height=200&random=promotion-banner_624_200" class="promotion-banner" />
+  
+  <view class="promotion-section">
+    <view class="promotion-text">
+      <text class="flash-sale">限时抢</text>
+      <text class="discount">折起</text>
+    </view>
+    <text class="opportunity">你有一次</text>
+  </view>
+  
+  <button class="receive-btn">立即领取</button>
+  
+  <view class="member-section">
+    <view class="member-info">
+      <view class="level-container">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=level-icon&width=64&height=60&random=level-icon_64_60" class="level-icon" />
+        <text class="level-text">LV1-萌新</text>
+      </view>
+      
+      <view class="user-details">
+        <view class="username-section">
+          <text class="username">艺晨</text>
+          <view class="divider"></view>
+          <view class="growth-section">
+            <text class="growth-value">成长值0/1</text>
+            <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=12&height=12&random=arrow_12_12" class="arrow-icon" />
+          </view>
+        </view>
+        
+        <view class="balance-section">
+          <view class="balance-item">
+            <text class="balance-amount">￥100</text>
+            <text class="balance-label">会员余额</text>
+          </view>
+          <view class="coupon-section">
+            <text class="coupon-count">0张</text>
+            <text class="coupon-label">优惠券</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    
+    <view class="vip-promotion">
+      <view class="vip-info">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=vip-icon&width=64&height=70&random=vip-icon_64_70" class="vip-icon" />
+        <view class="vip-text-section">
+          <text class="vip-text">UVIP</text>
+          <text class="vip-description">首单立减10元,2单回本！</text>
+        </view>
+      </view>
+      <button class="claim-vip-btn">限时领取</button>
+    </view>
+  </view>
+</view>

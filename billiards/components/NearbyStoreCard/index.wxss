@@ -1,0 +1,143 @@
+.nearby-store-card {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+
+.store-info-section {
+  background-image: url('https://www.weavefox.cn/api/bolt/unsplash_image?keyword=store-background&width=600&height=300&random=store-background_600_300');
+  background-size: cover;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+
+.store-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.store-title {
+  color: #ffffff;
+  font-size: 45rpx;
+  font-weight: bold;
+}
+
+.arrow-icon {
+  width: 24rpx;
+  height: 24rpx;
+}
+
+.store-details {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.store-icon {
+  width: 24rpx;
+  height: 30rpx;
+  margin-right: 10rpx;
+}
+
+.distance {
+  color: #ffffff;
+  font-size: 30rpx;
+  margin-right: 10rpx;
+}
+
+.store-name {
+  color: #ffffff;
+  font-size: 30rpx;
+}
+
+.play-btn {
+  background-color: #cfcfcd;
+  color: #2a4800;
+  border: 3rpx solid #acb4a0;
+  border-radius: 48rpx;
+  padding: 15rpx 30rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+
+.scan-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.scan-container {
+  background-color: #3c4739;
+  border: 3rpx solid #252726;
+  border-radius: 21rpx;
+  padding: 20rpx;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20rpx;
+}
+
+.scan-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.scan-title {
+  color: #ffffff;
+  font-size: 45rpx;
+  font-weight: bold;
+  margin-bottom: 10rpx;
+}
+
+.scan-description {
+  color: #ffffff;
+  font-size: 30rpx;
+}
+
+.qr-code {
+  width: 114rpx;
+  height: 168rpx;
+}
+
+.chase-score-section {
+  background-image: url('https://www.weavefox.cn/api/bolt/unsplash_image?keyword=chase-score-background&width=600&height=200&random=chase-score-background_600_200');
+  background-size: cover;
+  border-radius: 20rpx;
+  padding: 20rpx;
+}
+
+.chase-score-title {
+  color: #ffffff;
+  font-size: 45rpx;
+  font-weight: bold;
+  margin-bottom: 10rpx;
+}
+
+.chase-score-info {
+  display: flex;
+  align-items: center;
+}
+
+.chase-score-icon {
+  width: 108rpx;
+  height: 48rpx;
+  margin-right: 10rpx;
+}
+
+.chase-score-count {
+  color: #fffff3;
+  font-size: 30rpx;
+}
+
+.promotion-images {
+  display: flex;
+  justify-content: space-between;
+}
+
+.promotion-image {
+  width: 400rpx;
+  height: 200rpx;
+  border-radius: 20rpx;
+}

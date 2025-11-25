@@ -1,0 +1,33 @@
+.tab-navigation {
+  background-color: #ffffff;
+  padding: 10rpx 20rpx;
+  box-shadow: 0 -2rpx 10rpx rgba(0, 0, 0, 0.1);
+}
+
+.tabs-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.tab-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10rpx;
+}
+
+.tab-item.active {
+  color: #2c2c2c;
+}
+
+.tab-icon {
+  width: 40rpx;
+  height: 36rpx;
+  margin-bottom: 5rpx;
+}
+
+.tab-text {
+  color: #2c2c2c;
+  font-size: 16rpx;
+}

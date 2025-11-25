@@ -1,0 +1,20 @@
+<view class="billiards-tournament-card">
+  <view class="tournament-container">
+    <view class="tournament-header">
+      <view class="tournament-title-section">
+        <text class="tournament-title">小铁台球赛事</text>
+      </view>
+      <view class="tournament-info">
+        <text class="tournament-host">小铁球王</text>
+        <text class="tournament-call">等你来战！</text>
+      </view>
+      <view class="tournament-hashtag-section">
+        <text class="tournament-hashtag">#小铁台球赛事#</text>
+      </view>
+    </view>
+    <button class="tournament-btn">
+      <text class="btn-text">查看赛事</text>
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=30&height=30&random=arrow_30_30" class="btn-icon" />
+    </button>
+  </view>
+</view>

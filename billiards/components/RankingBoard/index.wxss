@@ -1,0 +1,92 @@
+.ranking-board {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+
+.ranking-container {
+  background-color: #252726;
+  border: 3rpx solid #1f201c;
+  border-radius: 36rpx;
+  padding-bottom: 20rpx;
+}
+
+.ranking-header {
+  background-image: url('https://www.weavefox.cn/api/bolt/unsplash_image?keyword=ranking-background&width=800&height=400&random=ranking-background_800_400');
+  background-size: cover;
+  border-radius: 36rpx 36rpx 0 0;
+  padding: 20rpx;
+  padding-bottom: 60rpx;
+}
+
+.title-section {
+  background-color: #e0b91e;
+  border: 3rpx dashed #3b4818;
+  border-radius: 21rpx;
+  padding: 10rpx;
+  width: fit-content;
+  margin-left: auto;
+  margin-bottom: 20rpx;
+}
+
+.ranking-title {
+  color: #2c2c2c;
+  font-size: 24rpx;
+  background-color: #a7da25;
+  padding: 2rpx 5rpx;
+}
+
+.content-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ranking-description {
+  font-weight: bold;
+  max-width: 70%;
+}
+
+.ranking-subtitle {
+  color: #ffef16;
+  font-size: 66rpx;
+  display: block;
+  margin-bottom: 10rpx;
+}
+
+.ranking-categories {
+  color: #ffffff;
+  font-size: 36rpx;
+  display: block;
+}
+
+.ranking-icon {
+  width: 18rpx;
+  height: 18rpx;
+  margin-top: 20rpx;
+}
+
+.view-ranking-btn {
+  background-color: #40413c;
+  border: 3rpx solid #252726;
+  border-radius: 48rpx;
+  padding: 15rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 20rpx auto 0;
+}
+
+.btn-text {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-right: 10rpx;
+}
+
+.btn-icon {
+  width: 48rpx;
+  height: 48rpx;
+}

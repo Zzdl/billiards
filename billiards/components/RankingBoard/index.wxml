@@ -1,0 +1,20 @@
+<view class="ranking-board">
+  <view class="ranking-container">
+    <view class="ranking-header">
+      <view class="title-section">
+        <text class="ranking-title">小铁排行榜</text>
+      </view>
+      <view class="content-section">
+        <text class="ranking-description">
+          <text class="ranking-subtitle">颠峰大神在身边</text>
+          <text class="ranking-categories">排行榜·豪气榜·斗志榜</text>
+        </text>
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=ranking-icon&width=18&height=18&random=ranking-icon_18_18" class="ranking-icon" />
+      </view>
+    </view>
+    <button class="view-ranking-btn">
+      <text class="btn-text">查看排行榜</text>
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=48&height=48&random=arrow_48_48" class="btn-icon" />
+    </button>
+  </view>
+</view>

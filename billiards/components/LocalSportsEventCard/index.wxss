@@ -1,0 +1,111 @@
+.local-sports-event-card {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-right: 20rpx;
+}
+
+.event-details {
+  background-color: #2a2d26;
+  border: 3rpx solid #22261e;
+  border-radius: 21rpx;
+  padding: 20rpx;
+  flex: 1;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.user-avatar {
+  width: 78rpx;
+  height: 78rpx;
+  border-radius: 39rpx;
+  margin-right: 10rpx;
+}
+
+.username {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-right: 20rpx;
+}
+
+.distance {
+  color: #ffffff;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+
+.event-info {
+  margin-bottom: 20rpx;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10rpx;
+}
+
+.info-icon {
+  width: 24rpx;
+  height: 30rpx;
+  margin-right: 10rpx;
+}
+
+.info-text {
+  color: #b1b3b2;
+  font-size: 30rpx;
+  font-weight: bold;
+}
+
+.info-text.time {
+  color: #f7cd1f;
+}
+
+.tags {
+  display: flex;
+}
+
+.tag {
+  background-color: #3b3d3c;
+  color: #ffffff;
+  font-size: 24rpx;
+  padding: 5rpx 15rpx;
+  border-radius: 12rpx;
+  margin-right: 10rpx;
+}
+
+.tag.difficulty {
+  background-color: #0e3a00;
+  color: #c2bc64;
+}
+
+.explore-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.explore-text {
+  color: #6c6e6d;
+  font-size: 36rpx;
+  margin-bottom: 10rpx;
+}
+
+.arrow-icon {
+  width: 30rpx;
+  height: 30rpx;
+}

@@ -1,0 +1,16 @@
+<view class="container">
+  <scroll-view scroll-y="true" class="scroll-area">
+    <user-dashboard />
+    <nearby-store-card />
+    <local-sports-event-card />
+    <view class="news-section">
+      <text class="news-title">小铁新鲜事</text>
+    </view>
+    <official-match-card />
+    <billiards-tournament-card />
+    <nearby-friend-connector />
+    <ranking-board />
+    <store-location-card />
+  </scroll-view>
+  <tab-navigation />
+</view>
