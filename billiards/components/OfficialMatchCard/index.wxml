@@ -1,0 +1,24 @@
+<view class="official-match-card">
+  <view class="match-card">
+    <view class="match-header">
+      <view class="match-title">
+        <text class="organizer">
+          <text class="organizer-icon">U</text>
+          <text class="organizer-name">小铁</text>
+        </text>
+        <text class="match-type">自助台球</text>
+      </view>
+      <view class="match-code-section">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=qr-code&width=72&height=54&random=qr-code_72_54" class="qr-code-icon" />
+        <text class="match-code">TSFBT2025</text>
+      </view>
+    </view>
+    <button class="details-btn">
+      <text class="btn-text">了解详情</text>
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=45&height=45&random=arrow_45_45" class="btn-arrow" />
+    </button>
+  </view>
+  <view class="official-tag">
+    <text class="tag-text">官方赛事</text>
+  </view>
+</view>

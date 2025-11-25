@@ -1,0 +1,15 @@
+<view class="store-location-card">
+  <view class="store-card">
+    <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=map&width=846&height=84&random=map_846_84" class="store-map" />
+    <view class="store-details">
+      <view class="location-info">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=location&width=30&height=30&random=location_30_30" class="location-icon" />
+        <text class="store-distance">北京马连洼北路店1km</text>
+      </view>
+      <view class="view-more">
+        <text class="view-more-text">查看更多门店</text>
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=42&height=42&random=arrow_42_42" class="arrow-icon" />
+      </view>
+    </view>
+  </view>
+</view>

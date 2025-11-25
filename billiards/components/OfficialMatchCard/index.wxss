@@ -1,0 +1,111 @@
+.official-match-card {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  position: relative;
+}
+
+.match-card {
+  background-color: #2f302b;
+  border: 3rpx dashed #33352f;
+  border-radius: 42rpx;
+  padding-bottom: 20rpx;
+}
+
+.match-header {
+  background-image: url('https://www.weavefox.cn/api/bolt/unsplash_image?keyword=match-background&width=800&height=400&random=match-background_800_400');
+  background-size: cover;
+  border-radius: 42rpx 42rpx 0 0;
+  padding: 40rpx 20rpx 60rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 20rpx;
+}
+
+.match-title {
+  background-color: #ffffff;
+  border: 3rpx solid #050200;
+  border-radius: 12rpx;
+  padding: 10rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.organizer {
+  font-size: 24rpx;
+  margin-bottom: 5rpx;
+}
+
+.organizer-icon {
+  color: #f6e416;
+}
+
+.organizer-name {
+  color: #000000;
+}
+
+.match-type {
+  color: #000000;
+  font-size: 24rpx;
+}
+
+.match-code-section {
+  background-color: #ffffff;
+  border: 3rpx solid #050200;
+  border-radius: 15rpx;
+  padding: 10rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qr-code-icon {
+  width: 72rpx;
+  height: 54rpx;
+  margin-bottom: 5rpx;
+}
+
+.match-code {
+  color: #000000;
+  font-size: 24rpx;
+}
+
+.details-btn {
+  background-color: #40413c;
+  border: none;
+  border-radius: 48rpx;
+  padding: 15rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.btn-text {
+  color: #ffffff;
+  font-size: 36rpx;
+  margin-right: 10rpx;
+}
+
+.btn-arrow {
+  width: 45rpx;
+  height: 45rpx;
+}
+
+.official-tag {
+  background-color: #bdce20;
+  border: 3rpx solid #dcde90;
+  border-radius: 18rpx;
+  padding: 10rpx;
+  position: absolute;
+  top: 10rpx;
+  right: 30rpx;
+}
+
+.tag-text {
+  color: #2c2c2c;
+  font-size: 30rpx;
+}

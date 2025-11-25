@@ -1,0 +1,20 @@
+<view class="tab-navigation">
+  <view class="tabs-container">
+    <view class="tab-item active">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=home-icon&width=40&height=36&random=home-icon_40_36" class="tab-icon" />
+      <text class="tab-text">首页</text>
+    </view>
+    <view class="tab-item">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=store-icon&width=40&height=44&random=store-icon_40_44" class="tab-icon" />
+      <text class="tab-text">门店</text>
+    </view>
+    <view class="tab-item">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=order-icon&width=40&height=36&random=order-icon_40_36" class="tab-icon" />
+      <text class="tab-text">订单</text>
+    </view>
+    <view class="tab-item">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=profile-icon&width=40&height=44&random=profile-icon_40_44" class="tab-icon" />
+      <text class="tab-text">我的</text>
+    </view>
+  </view>
+</view>

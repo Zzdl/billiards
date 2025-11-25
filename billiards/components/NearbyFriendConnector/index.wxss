@@ -1,0 +1,80 @@
+.nearby-friend-connector {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+
+.connector-container {
+  background-color: #2f302b;
+  border: 3rpx solid #252726;
+  border-radius: 39rpx;
+  padding: 20rpx;
+  position: relative;
+  margin-bottom: 20rpx;
+  min-height: 300rpx;
+}
+
+.message-highlight {
+  background-image: url('https://www.weavefox.cn/api/bolt/unsplash_image?keyword=message-background&width=600&height=200&random=message-background_600_200');
+  background-size: cover;
+  padding: 20rpx;
+  border-radius: 20rpx;
+}
+
+.message-text {
+  font-weight: bold;
+}
+
+.subtitle {
+  color: #ffed0b;
+  font-size: 66rpx;
+  display: block;
+  margin-bottom: 10rpx;
+}
+
+.detail {
+  color: #ffffff;
+  font-size: 36rpx;
+  display: block;
+}
+
+.activity-tag {
+  background-color: #bdce20;
+  border: 3rpx solid #72621f;
+  border-radius: 21rpx;
+  padding: 5rpx 10rpx;
+  position: absolute;
+  top: 10rpx;
+  right: 10rpx;
+}
+
+.tag-text {
+  color: #2c2c2c;
+  font-size: 24rpx;
+  background-color: #94e61f;
+}
+
+.view-friends-btn {
+  background-color: #40413c;
+  border: 3rpx solid #282a24;
+  border-radius: 48rpx;
+  padding: 15rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.btn-text {
+  color: #ffffff;
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-right: 10rpx;
+}
+
+.btn-icon {
+  width: 48rpx;
+  height: 48rpx;
+}

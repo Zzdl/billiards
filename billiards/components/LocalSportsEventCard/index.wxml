@@ -1,0 +1,33 @@
+<view class="local-sports-event-card">
+  <text class="title">同城打球</text>
+  
+  <view class="event-details">
+    <view class="user-profile">
+      <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=avatar&width=78&height=78&random=avatar_78_78" class="user-avatar" />
+      <text class="username">Redamancy</text>
+      <text class="distance">12km</text>
+    </view>
+    
+    <view class="event-info">
+      <view class="info-item">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=location&width=24&height=30&random=location_24_30" class="info-icon" />
+        <text class="info-text">北京市昌平区北七家镇王府街2··</text>
+      </view>
+      <view class="info-item">
+        <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=time&width=24&height=24&random=time_24_24" class="info-icon" />
+        <text class="info-text time">11月26日15:00</text>
+      </view>
+    </view>
+    
+    <view class="tags">
+      <text class="tag">中式台球-八球</text>
+      <text class="tag">输家付款</text>
+      <text class="tag difficulty">1档</text>
+    </view>
+  </view>
+  
+  <view class="explore-section">
+    <text class="explore-text">探索全部</text>
+    <image src="https://www.weavefox.cn/api/bolt/unsplash_image?keyword=arrow&width=30&height=30&random=arrow_30_30" class="arrow-icon" />
+  </view>
+</view>

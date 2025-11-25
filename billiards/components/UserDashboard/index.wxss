@@ -1,0 +1,274 @@
+.user-dashboard {
+  background-color: #20211c;
+  border-radius: 20rpx;
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+}
+
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.time-section {
+  display: flex;
+  align-items: center;
+}
+
+.time-text {
+  color: #ffffff;
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+
+.icon {
+  width: 20rpx;
+  height: 24rpx;
+  margin-right: 10rpx;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.avatar-border {
+  width: 20rpx;
+  height: 24rpx;
+  margin-right: 10rpx;
+}
+
+.avatar {
+  width: 16rpx;
+  height: 20rpx;
+  margin-right: 10rpx;
+}
+
+.gender-icon {
+  width: 20rpx;
+  height: 24rpx;
+  margin-right: 10rpx;
+}
+
+.user-code {
+  color: #3f3102;
+  font-size: 24rpx;
+  margin-right: 10rpx;
+}
+
+.edit-icon {
+  width: 16rpx;
+  height: 20rpx;
+}
+
+.promotion-banner {
+  width: 100%;
+  height: 200rpx;
+  border-radius: 10rpx;
+  margin-bottom: 20rpx;
+}
+
+.promotion-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+
+.promotion-text {
+  display: flex;
+  align-items: baseline;
+}
+
+.flash-sale {
+  color: #010010;
+  font-size: 60rpx;
+  font-weight: bold;
+}
+
+.discount {
+  color: #4d3c00;
+  font-size: 24rpx;
+  margin-left: 10rpx;
+}
+
+.opportunity {
+  color: #130907;
+  font-size: 60rpx;
+  font-weight: bold;
+}
+
+.receive-btn {
+  background-color: #94c335;
+  color: #ffffff;
+  border-radius: 32rpx;
+  padding: 10rpx 30rpx;
+  font-size: 24rpx;
+  align-self: flex-end;
+  margin-bottom: 20rpx;
+}
+
+.member-section {
+  background-color: #ddd396;
+  border: 2rpx solid #5a5f41;
+  border-radius: 28rpx;
+  padding: 10rpx;
+}
+
+.member-info {
+  background-color: #2a2d26;
+  border-radius: 28rpx;
+  padding: 20rpx;
+  display: flex;
+  margin-bottom: 10rpx;
+}
+
+.level-container {
+  position: relative;
+  width: 72rpx;
+  height: 72rpx;
+  margin-right: 20rpx;
+}
+
+.level-icon {
+  width: 64rpx;
+  height: 60rpx;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.level-text {
+  color: #fffcc4;
+  font-size: 24rpx;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+
+.user-details {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.username-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.username {
+  color: #ffffff;
+  font-size: 20rpx;
+  margin-bottom: 10rpx;
+}
+
+.divider {
+  height: 2rpx;
+  background-color: #41403e;
+  margin-bottom: 10rpx;
+}
+
+.growth-section {
+  display: flex;
+  align-items: center;
+}
+
+.growth-value {
+  color: #6f7170;
+  font-size: 16rpx;
+  margin-right: 10rpx;
+}
+
+.arrow-icon {
+  width: 12rpx;
+  height: 12rpx;
+}
+
+.balance-section {
+  display: flex;
+}
+
+.balance-item {
+  margin-right: 30rpx;
+}
+
+.balance-amount {
+  color: #fbeb00;
+  font-size: 20rpx;
+  display: block;
+  text-align: center;
+}
+
+.balance-label {
+  color: #9a9c9b;
+  font-size: 16rpx;
+  display: block;
+  text-align: center;
+}
+
+.coupon-section {
+  text-align: center;
+}
+
+.coupon-count {
+  color: #feec20;
+  font-size: 20rpx;
+  display: block;
+}
+
+.coupon-label {
+  color: #9a9c9b;
+  font-size: 16rpx;
+  display: block;
+}
+
+.vip-promotion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #413e2b;
+  border-radius: 28rpx;
+  padding: 10rpx 20rpx;
+}
+
+.vip-info {
+  display: flex;
+  align-items: center;
+}
+
+.vip-icon {
+  width: 64rpx;
+  height: 70rpx;
+  margin-right: 10rpx;
+}
+
+.vip-text-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.vip-text {
+  color: #52430a;
+  font-size: 20rpx;
+  margin-bottom: 5rpx;
+}
+
+.vip-description {
+  color: #373026;
+  font-size: 20rpx;
+}
+
+.claim-vip-btn {
+  background-color: #413e2b;
+  color: #ffec8e;
+  border: none;
+  border-radius: 32rpx;
+  padding: 10rpx 20rpx;
+  font-size: 20rpx;
+}
